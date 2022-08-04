@@ -1,3 +1,3 @@
-# Sketched-NN
+# Embedding General Metrics into $l_p$-Spaces
 
 TBU
